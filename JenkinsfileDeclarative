@@ -32,7 +32,7 @@ options{
 	  sh "mvn clean package"
 	 }
    }
-   
+   /*
     stage('ExecuteSonarQubeReport')
    {
      steps{
@@ -78,6 +78,7 @@ options{
  Mithun Technologies,
  9980923226''', cc: 'devopstrainingblr@gmail.com', from: '', replyTo: '', subject: 'BuildOver!!', to: 'devopstrainingblr@gmail.com'
  }
+*/
  
  }
 }
